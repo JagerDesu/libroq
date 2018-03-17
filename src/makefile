@@ -1,0 +1,2 @@
+OBJS := \
+	main.o
