@@ -1,2 +1,3 @@
 OBJS := \
-	main.o
+	main.o \
+	libroq.o

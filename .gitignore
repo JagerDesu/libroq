@@ -1,0 +1,6 @@
+bin/roq-player
+obj/main.o
+*.d
+*.o
+*.roq
+*.RoQ
